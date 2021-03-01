@@ -1,0 +1,89 @@
+{
+    "tabnine.experimentalAutoImports": true,
+    
+    "emmet.showSuggestionsAsSnippets": true,
+    "[html]": {
+        "editor.defaultFormatter": "aliariff.vscode-erb-beautify",
+    },
+    "files.associations": {
+        "*.erb": "erb"
+    },
+    "emmet.includeLanguages": {
+        "erb": "html",
+        "ruby": "html"
+    },
+    "emmet.includeLanguages": {
+        "html.erb": "html",
+    },
+    "kite.showWelcomeNotificationOnStartup": false,
+    "files.associations": {
+        "*.erb": "erb"
+    },
+    "[erb]": {
+        "editor.defaultFormatter":"aliariff.vscode-erb-beautify" ,
+    },
+    "[html]": {
+        "editor.defaultFormatter": "aliariff.vscode-erb-beautify",
+    },
+    "files.associations": {
+        "*.erb": "erb"
+    },
+    
+    "emmet.includeLanguages": {
+        "erb": "html"
+    },
+    "emmet.includeLanguages": {
+        "erb": "html"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.showAbbreviationSuggestions": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.cursorStyle": "line",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "color-highlight.markerType": "underline",
+    "html-css-class-completion.enableEmmetSupport": true,
+    "editor.tabSize": 2,
+    "highlight-matching-tag.enabled": true,
+    "highlight-matching-tag.styles": {
+        "opening": {
+            "left": {
+                "custom": {
+                    "borderWidth": "0 0 0 1px",
+                    "borderStyle": "solid",
+                    "borderColor": "yellow",
+                    "overviewRulerColor": "white"
+                }
+            },
+            "right": {
+                "custom": {
+                    "borderWidth": "0 1px 0 0",
+                    "borderStyle": "solid",
+                    "borderColor": "yellow",
+                    "overviewRulerColor": "white"
+                }
+            },
+            "name": {
+                "underline": "yellow"
+            }
+        }
+    },
+    "files.associations": {
+        "*.erb": "erb"
+    },
+    "[erb]": {
+        "editor.defaultFormatter": "aliariff.vscode-erb-beautify",
+    },
+    "[html]": {
+        "editor.defaultFormatter": "aliariff.vscode-erb-beautify",
+    },
+    "files.associations": {
+        "*.erb": "erb"
+    },
+    "explorer.openEditors.sortOrder": "alphabetical",
+    "window.zoomLevel": 1,
+}
